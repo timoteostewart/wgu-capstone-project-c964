@@ -1,1 +1,1 @@
-To run this project right away, follow the "quick start" instructions on page 51 of `Tim Stewart id 001476583 C964 capstone task 2.pdf`. It explains how to unzip `capstone-quickstar.zip` and run the project. Please note that this project features a graphical user interface (GUI). 🙂
+To run this project right away, follow the "quick start" instructions on page 51 of `Tim Stewart id 001476583 C964 capstone task 2.pdf`. It explains how to unzip `capstone-quickstart.zip` and run the project. Please note that this project features a graphical user interface (GUI). 🙂
